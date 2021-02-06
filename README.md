@@ -5,7 +5,7 @@ It handles the ratelimit and requests on itself and is designed to be used in th
 
 # Usage
 
-First create a new TatsuAPI object. Here you will have to supply your API-Key which you get from the `t!apikey` command\
+First create a new TatsuAPI object. Here you will have to supply your API-Key which you get from the `t!apikey` command
 ```js
 const api = new TatsuAPI(token);
 ```
