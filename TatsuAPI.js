@@ -242,11 +242,13 @@ if (this.hasOwnProperty('exports')) {
 /**
  * @typedef {object} User
  * @property {string} avatar_url
+ * @property {string} avatar_hash
  * @property {int} credits
  * @property {string} discriminator
  * @property {string} id
  * @property {string} info_box
  * @property {int} reputation
+ * @property {int} subscription_type
  * @property {string} title
  * @property {int} tokens
  * @property {string} username
