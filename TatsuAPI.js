@@ -261,3 +261,5 @@ if (this.hasOwnProperty('exports')) {
  * @property {int} remaining
  * @property {int} reset
  */
+//guilds/:guild_id/rankings/week
+
